@@ -42,12 +42,6 @@ Programmer | Gamer | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Jakki" /></p>
 
-# 🏅 Certificates:
-<p>
-Udemy Url: https://www.udemy.com/certificate/UC-9847db74-686b-4fef-9466-f4c993da9a03
-<img width="494" align="center" src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Certificates/GitandGithub.jpg" alt="Jakki" />
-<img width="494" align="center" src="https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Certificates/Touch-Typing.jpg" alt="Jakki" />
-</p>
 
 
 [twitter]: https://twitter.com/jakkiofficial
