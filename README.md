@@ -1,9 +1,9 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Jakki</h1>
+<h1 align="center">Hi There! <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Jakki</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Gamer | Learner
 
-?></h3>
+</h3>
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
 
 - 🔭 I’m currently working on **Random stuff**
