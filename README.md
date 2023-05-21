@@ -33,10 +33,6 @@ Programmer | Gamer | Learner
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=NoobMahbub.visitor-badge&left_color=blue&right_color=yellow)
-<br />
-
-[![Mahbub's github activity graph](https://activity-graph.heroku.app/graph?username=NoobMahbub&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
