@@ -28,6 +28,5 @@
 
 
 
-[twitter]: https://twitter.com/jakkiofficial
 [youtube]: https://youtube.com/@jakki_
-[instagram]: https://instagram.com/its_jakkii
+[instagram]: https://instagram.com/hrasovecj
