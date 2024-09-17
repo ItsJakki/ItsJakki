@@ -26,7 +26,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsJakki&show_icons=true&locale=en" alt="Jakki" /></p>
 
-
-
 [youtube]: https://youtube.com/@jakki_
 [instagram]: https://instagram.com/hrasovecj
