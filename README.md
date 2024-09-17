@@ -6,11 +6,7 @@
 </h3>
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
 
-- 🔭 I’m currently working on **Random stuff**
-
-- 🌱 I’m currently learning **c++**
-
-- 👯 I’m looking to collaborate on **Open Source**
+- I’m currently learning **c++**
 
 ### Connect with me:
 
