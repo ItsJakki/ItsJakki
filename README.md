@@ -1,4 +1,4 @@
-<h1 align="center">Hi There! <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Jakki</h1>
+<h1 align="center">Hi There! I'm Jakki</h1>
 <h3 align="center">ʘ‿ʘ
 
 | Programmer | Gamer | Learner | 
